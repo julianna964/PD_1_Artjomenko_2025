@@ -1,0 +1,15 @@
+1. jautājums: Cow
+2. jautājums: saas
+3. jautājums: Cat
+4. jautājums: Parrot
+5. jautājums: as
+6. jautājums: Sheep
+7. jautājums: Mouse
+8. jautājums: as
+9. jautājums: Fish
+10. jautājums: Duck
+11. jautājums: as
+12. jautājums: Bear
+13. jautājums: Deer
+14. jautājums: asas
+15. jautājums: Butterfly
