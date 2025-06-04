@@ -1,0 +1,15 @@
+1. jautājums: null
+2. jautājums: 
+3. jautājums: *
+4. jautājums: null
+5. jautājums: 
+6. jautājums: *
+7. jautājums: null
+8. jautājums: 
+9. jautājums: *
+10. jautājums: null
+11. jautājums: 
+12. jautājums: *
+13. jautājums: null
+14. jautājums: 
+15. jautājums: *
